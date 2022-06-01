@@ -5,7 +5,7 @@
 		$uri = 'http://';
 	}
 	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'/dist');
+	header('Location: '.$uri.'/shop/dist');
 	exit;
 ?>
 Apache: Server error; unable to process request.

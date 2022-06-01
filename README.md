@@ -1,6 +1,6 @@
 # htdocs
-Start by installing Node JS.
-Install vue through npm
-xampp through htdocs
-cd to shop and npm run serve for dev
-cd to shop and npm run build for deployment
+Start by installing Node JS. <br />
+Install vue through npm <br />
+xampp through htdocs <br />
+cd to shop and npm run serve for dev <br />
+cd to shop and npm run build for deployment <br />

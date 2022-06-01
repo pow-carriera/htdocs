@@ -1,4 +1,6 @@
  <template>
+   <img alt="Vue logo" src="../assets/images/logo.png" />
+   <br />
     <!-- Button to open the modal login form -->
     <button onclick="document.getElementById('id01').style.display='block'">Login</button>
 

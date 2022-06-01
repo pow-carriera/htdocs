@@ -2,7 +2,7 @@
   <NavBar />
   <HelloWorld msg="Sole Dreams" />
 
-  <img alt="Vue logo" src="./assets/images/logo.png" />
+
   <br />
   <Login />
 </template>

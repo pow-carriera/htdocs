@@ -8,28 +8,19 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+/* import HelloWorld from './components/HelloWorld.vue' */
 import NavBar from './components/NavBar.vue'
-import Login from './components/Login.vue'
+/* import Login from './components/Login.vue' */
 
 export default {
   name: 'App',
   components: {
     NavBar,
-    HelloWorld,
-    Login
+    /* HelloWorld, */
+    /*  Login  */
   }
 }
 
-// Get the modal
-var modal = document.getElementById('id01');
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function (event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
 </script>
 
 <style>
